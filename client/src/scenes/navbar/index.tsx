@@ -1,5 +1,5 @@
 import FlexBetween from '@/components/FlexBetween';
-import { Box, Typography, useScrollTrigger, useTheme } from '@mui/material';
+import { Box, Typography,  useTheme } from '@mui/material';
 import { useState } from 'react';
 import PixIcon from '@mui/icons-material/Pix';
 import { Link } from 'react-router-dom';
